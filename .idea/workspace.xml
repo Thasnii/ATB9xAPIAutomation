@@ -4,15 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ebd2185-8dfb-401e-9a6a-a33faf2f38f4" name="Changes" comment="" />
+    <list default="true" id="6ebd2185-8dfb-401e-9a6a-a33faf2f38f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/examplethasni/ex01_API_sample001/APItesting001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/examplethasni/ex01_API_sample001/APItesting002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/examplethasni/ex01_API_sample001/APItesting003_Nodesignpattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/examplethasni/ex01_API_sample001/APItesting004_BuilderpatternDesignpattern.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2qcGab18RFw4U1y8ODEJRbddXeZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,11 +45,85 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.APItesting001.executor": "Run",
+    "Application.APItesting002.executor": "Run",
+    "Application.APItesting003_Nodesignpattern.executor": "Run",
+    "Application.APItesting004_BuilderpatternDesignpattern.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.APItesting004_BuilderpatternDesignpattern">
+    <configuration name="APItesting001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.examplethasni.ex01_API_sample001.APItesting001" />
+      <module name="ATB9xAPIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.examplethasni.ex01_API_sample001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APItesting002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.examplethasni.ex01_API_sample001.APItesting002" />
+      <module name="ATB9xAPIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.examplethasni.ex01_API_sample001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APItesting003_Nodesignpattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.examplethasni.ex01_API_sample001.APItesting003_Nodesignpattern" />
+      <module name="ATB9xAPIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.examplethasni.ex01_API_sample001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APItesting004_BuilderpatternDesignpattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.examplethasni.ex01_API_sample001.APItesting004_BuilderpatternDesignpattern" />
+      <module name="ATB9xAPIAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.examplethasni.ex01_API_sample001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.APItesting004_BuilderpatternDesignpattern" />
+        <item itemvalue="Application.APItesting003_Nodesignpattern" />
+        <item itemvalue="Application.APItesting002" />
+        <item itemvalue="Application.APItesting001" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
